@@ -129,7 +129,7 @@ CELERY_RESULT_BACKEND = "redis://localhost:6379"
 #Email settings
 EMAIL_HOST = 'smtp.mail.ru'
 EMAIL_PORT = 2525
-EMAIL_HOST_USER = "erbolbaik@mail.ru"
-EMAIL_HOST_PASSWORD = "AAYhDHSE7FFU1bwJdctx"
+EMAIL_HOST_USER = "xxxxxx@mail.ru"
+EMAIL_HOST_PASSWORD = ""
 EMAIL_USE_TLS = True
 EMAIL_USE_SSL = False
